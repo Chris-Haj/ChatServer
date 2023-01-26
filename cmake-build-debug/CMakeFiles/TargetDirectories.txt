@@ -1,0 +1,3 @@
+/home/chris/CLionProjects/Networks/ChatServer/cmake-build-debug/CMakeFiles/ChatServer.dir
+/home/chris/CLionProjects/Networks/ChatServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chris/CLionProjects/Networks/ChatServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

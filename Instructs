@@ -1,0 +1,8 @@
+select() check which sd is ready for reading or writing.
+when checking read set, find main socket, (gets new sockets from other sockets) that exchange data with client.
+when main socket is ready for reading, call accept. If other sockets are ready for reading, recv()/read().
+Use queue for each connection. Queue will hold all msgs that must be written on connection.
+when checking write set, if the sd is ready for writing, write once (not get blocked). Set socket to be non-blocking.
+
+Message handling:
+msg struct
