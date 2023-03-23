@@ -1,0 +1,4 @@
+207824772
+Christopher Haj 207824772
+Chat Server
+chatserver.c contains functions to open a socket, bind it to a port, and listen for incoming msgs from clients. It also contains functions to send msgs to other connected clients.

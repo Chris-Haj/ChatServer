@@ -1,19 +1,5 @@
 # ninja log v5
-37	51	1674235304191765636	ChatServer	d57a0379ae3670b2
-0	37	1674235304175765520	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-0	13	1674233788625016392	CMakeFiles/ChatServer.dir/mo.c.o	188f4ec64badd97
-0	13	1674235732162870613	ChatServer	7ff7ff9a1161ba7a
-1	38	1674235767455127546	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-38	51	1674235767471127663	ChatServer	7ff7ff9a1161ba7a
-0	39	1674236239762448596	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-39	54	1674236239778448674	ChatServer	7ff7ff9a1161ba7a
-0	47	1674236740601276035	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-47	62	1674236740617276134	ChatServer	7ff7ff9a1161ba7a
-1	41	1674236783509543997	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-41	55	1674236783525544098	ChatServer	7ff7ff9a1161ba7a
-0	41	1674239425992533844	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-41	56	1674239426012533961	ChatServer	7ff7ff9a1161ba7a
-0	38	1674239638009793766	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-39	53	1674239638025793863	ChatServer	7ff7ff9a1161ba7a
-0	36	1674240527471090573	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
-36	51	1674240527491090684	ChatServer	7ff7ff9a1161ba7a
+62	94	1674905569518333848	ChatServer	7ff7ff9a1161ba7a
+0	62	1674905569486333356	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
+0	63	1679571827748948194	CMakeFiles/ChatServer.dir/chatServer.c.o	a2dec0af53c8e31c
+63	84	1679571827768948376	ChatServer	7ff7ff9a1161ba7a
